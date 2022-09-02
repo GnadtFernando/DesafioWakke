@@ -1,6 +1,6 @@
 # teste_wakke
 
-A new Flutter project.
+Projeto criado através do flutter 3.0.5
 
 ## Getting Started
 
